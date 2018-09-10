@@ -1,0 +1,1 @@
+/home/anjan/github.com/osxcross/target/SDK/MacOSX10.11.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/stdarg.h
